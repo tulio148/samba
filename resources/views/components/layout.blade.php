@@ -14,11 +14,9 @@
 </head>
 
 <body class="antialiased">
-    <nav class="border-b-4 ">
-        <ul class="flex p-4 gap-4 justify-center">
-            <li>
-                <a href="/">home</a>
-            </li>
+    <nav class="border-b-4 flex justify-around">
+        <a href="/">home</a>
+        <ul class="flex gap-4 p-2">
             <li>
                 <a href="/about">about</a>
             </li>
@@ -28,6 +26,14 @@
             <li>
                 <a href="/presentations">presentations
                 </a>
+            </li>
+        </ul>
+        <ul class="flex gap-4 p-2">
+            <li>
+                <a href="/login">login</a>
+            </li>
+            <li>
+                <a href="/classes">register</a>
             </li>
         </ul>
     </nav>

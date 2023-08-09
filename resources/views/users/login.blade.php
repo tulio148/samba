@@ -1,3 +1,3 @@
 <x-layout>
-    <h1>classes</h1>
+    <h1>login</h1>
 </x-layout>
